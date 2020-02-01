@@ -9,6 +9,8 @@
   "author": "amr-nid-rus",
   "license": "ISC",
   "dependencies": {
-    "clarifai": "^2.9.1"
+    "clarifai": "^2.9.1",
+    "nutrition-facts": "^0.1.0",
+    "request": "^2.88.0"
   }
 }
