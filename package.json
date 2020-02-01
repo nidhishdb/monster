@@ -1,0 +1,14 @@
+{
+  "name": "monster",
+  "version": "1.0.0",
+  "description": "An app to help you with your nutritional needs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "amr-nid-rus",
+  "license": "ISC",
+  "dependencies": {
+    "clarifai": "^2.9.1"
+  }
+}
